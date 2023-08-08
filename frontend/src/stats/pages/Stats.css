@@ -1,0 +1,50 @@
+body {
+  /* background color to the website */
+  background-image: url('https://cdn.discordapp.com/attachments/1125893813727154317/1133594307669004318/bb_background4.png');
+}
+
+.stat-page{
+  margin-block-start: 4.5%;
+}
+.product-stats-content__card
+{
+  margin-block-start: 2%;
+  margin-bottom: 2%;
+}
+.welcome-user{
+  color:white;
+}
+
+.map-container{
+height: 100%;
+}
+
+.side-by-side 
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: -40px; /* Optional: Add some space between each side-by-side section */
+}
+
+.ProductsHeader
+{
+  margin-bottom: -13px;
+  background-color: #F8D405;
+  justify-content: center;
+}
+
+.WelcomeHeader
+{
+  margin-top: 50px;
+}
+
+.Product-by-side
+{
+  margin-bottom: -40px;
+}
+
+.Products-container
+{
+  text-align: center;
+}
